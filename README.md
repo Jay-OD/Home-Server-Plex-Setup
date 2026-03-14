@@ -1,6 +1,6 @@
 # Home-Server-Plex-Setup (Docker)
 
-This repository documents my home server setup for running Plex using Docker. It covers conatiner configuration, storage layout, local networking, and common troubleshooting steps.
+This repository documents my home server setup for running Plex using Docker. It covers container configuration, storage layout, local networking, and common troubleshooting steps.
 
 The goal of this project is to demonstrate practical system administration skills, containerisation knoweledge, and real-world home lab experiance.
 
