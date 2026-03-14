@@ -24,13 +24,13 @@ The goal of this project is to demonstrate practical system administration skill
 
 Below is the Docker Compose configuration used for Plex.
 
-Version: 3.9
-Image: linuxserver/plex
-Container name: Plex
-PUID: 1000
-PGID: 1000
-TZ: Europe/London
-Restart: Off
+* Version: 3.9
+* Image: linuxserver/plex
+* Container name: Plex
+* PUID: 1000
+* PGID: 1000
+* TZ: Europe/London
+* Restart: Off
 
 ## Local Network Setup
 
