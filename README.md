@@ -6,19 +6,19 @@ The goal of this project is to demonstrate practical system administration skill
 
 ## Project Structure
 
-Docker
-Network
-Storage
-Troubleshooting
+* Docker
+* Network
+* Storage
+* Troubleshooting
 
 ## Features
 
-Plex running in Docker
-Organised media storage layout
-Local network access
-Container updates and maintenance
-Troubleshooting notes
-Future improvements planned (static IP, remote access)
+* Plex running in Docker
+* Organised media storage layout
+* Local network access
+* Container updates and maintenance
+* Troubleshooting notes
+* Future improvements planned (static IP, remote access)
 
 ## Docker Compose
 
@@ -41,8 +41,8 @@ Plex is currently running on the local network only. Future plans include settin
 The folder structure and formats are set up in a particular way to better assist Plex pulling in metadata from external sources such as The Movie Database. If this is done incorrectly or if the format doesnt apply to way it is expected, you will get errors such as media not showing or will show as somethig else entirely.
 
 Media
-/Movies
-/TV Shows
+* /Movies
+* /TV Shows
 
 Each file has to match the database it pulls the information from. An example would be the file name might match another movie with the same name, which would pull in completly different data.
 
