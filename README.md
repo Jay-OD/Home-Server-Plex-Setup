@@ -52,6 +52,9 @@ The UGREEN NAS hardware does not provide a built in Plex Media Server package, s
 
 This includes more RAM and CPU power which is especially useful when more than person is accessing the server at the same time.
 
+Docker Running
+<img width="2646" height="1431" alt="image" src="https://github.com/user-attachments/assets/0c67112d-d914-42d2-b8f2-4aae7af5501e" />
+
 ## Troubleshooting
 
 I have had a number of seperate issues along the way which I have managed to resolve. 
